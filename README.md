@@ -1,8 +1,8 @@
-Name - AKSHAY KUMAR SAHU
-Company - CODTECH IT SOLUTIONS
-ID - CT08DS5222
-Domain - Android App Development
-Duration - 4 Weeks
+Name - AKSHAY KUMAR SAHU,
+Company - CODTECH IT SOLUTIONS,
+ID - CT08DS5222,
+Domain - Android App Development,
+Duration - 4 Weeks,
 Mentor - Muzammil Ahmed.
 
 
